@@ -7,7 +7,7 @@
 - **Performance Tweaks**: Configurations that optimize system performance for gaming.
 - **Tools & Scripts**: Scripts designed to enhance your gaming experience on lower-spec PCs.
 
-🎥 **YouTube Channel**: [Your YouTube Channel Link](https://www.youtube.com/@GamingbyWPG)
+🎥 **YouTube Channel**: [WPG Gaming](https://www.youtube.com/@GamingbyWPG)
 
 ## 🚀 Get Started:
 1. **Clone the repository**:
