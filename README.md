@@ -1,4 +1,4 @@
-# Welcome to [WPG Gaming]'s Official Profile! 👋
+# Welcome to WPG Gaming's Official Profile! 👋
 
 👾 This is the official GitHub repository for **[Your YouTube Channel Name]**, where I share tools, fixes, and configurations to improve performance on **low-end** and **mid-end PCs**.
 
