@@ -21,7 +21,4 @@
    git clone https://github.com/gamingbyWPG/your-repo-name.git
 ---
 
-## 💡 Want to Improve Your Gaming Experience?
-Explore the repos, download the right `_config` or `_fix` for your game, and follow the steps provided inside each folder.
-
 🖤 Thanks for visiting! Don’t forget to **follow** and **star** the repos if they help you.
