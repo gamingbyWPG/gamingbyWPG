@@ -3,10 +3,6 @@
 🎮 This is the official GitHub for my [YouTube channel](https://www.youtube.com/@gamingbyWPG), where I share **performance tweaks**, **FPS boosters**, and **fixes** for popular games—specially made for **low-end** and **mid-end PCs**.
 
 🔧 **What you'll find here:**
-- **Game Fixes**: Solutions for common game issues.
-- **Performance Tweaks**: Configurations that optimize system performance for gaming.
-- **Tools & Scripts**: Scripts designed to enhance your gaming experience on lower-spec PCs.
-
 - 🎮 Game-specific configuration packs.
 - 🚫 Crash and bug fixes.
 - 🚀 Tweaks to boost FPS and reduce lag.
