@@ -12,19 +12,14 @@
 - **`_config`**: These contain **tweaks, optimizations, and FPS boost settings** to improve performance on **low-end or mid-end PCs**. Think of them as "lag fix" or "performance boost" packs.
 - **`_fix`**: These address **specific game issues**, such as **crashes, bugs, resolution problems**, or other in-game errors.
 
-Each folder is game-specific and labeled accordingly.
-
 ## 🔗 Connect With Me:
 - 🎥 **YouTube Channel**: [WPG Gaming](https://www.youtube.com/@GamingbyWPG)
 
 ---
 
-## 🚀 Get Started:
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/gamingbyWPG/your-repo-name.git
-
----
 
 
 
