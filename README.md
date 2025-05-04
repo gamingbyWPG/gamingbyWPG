@@ -1,4 +1,4 @@
-# 👋 Welcome to the Official GitHub of gamingbyWPG!
+# 👋 Welcome to the Official GitHub of WPG Gaming!
 
 🎮 This is the official GitHub for my [YouTube channel](https://www.youtube.com/@gamingbyWPG), where I share **performance tweaks**, **FPS boosters**, and **fixes** for popular games—specially made for **low-end** and **mid-end PCs**.
 
