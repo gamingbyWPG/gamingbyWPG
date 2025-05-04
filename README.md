@@ -8,15 +8,11 @@
 - 🚀 Tweaks to boost FPS and reduce lag.
 - 📁 Easy-to-use files with clear instructions.
 
----
-
 ## 📂 Folder Naming Conventions:
 - **`_config`**: These contain **tweaks, optimizations, and FPS boost settings** to improve performance on **low-end or mid-end PCs**. Think of them as "lag fix" or "performance boost" packs.
 - **`_fix`**: These address **specific game issues**, such as **crashes, bugs, resolution problems**, or other in-game errors.
 
 Each folder is game-specific and labeled accordingly.
-
----
 
 ## 🔗 Connect With Me:
 - 🎥 **YouTube Channel**: [WPG Gaming](https://www.youtube.com/@GamingbyWPG)
